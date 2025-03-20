@@ -8,6 +8,9 @@ switch ($act) {
     case '/':
         echo "Home";
         break;
+    case '/products':
+        echo "products";
+        break;
 
     default:
         echo "Router không hợp lệ";
