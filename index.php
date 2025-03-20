@@ -9,7 +9,7 @@ switch ($act) {
         echo "Home";
         break;
     case '/products':
-        echo "products";
+        echo "products khsđk";
         break;
 
     default:
